@@ -40,4 +40,5 @@
 
 
 ## Citation
-- FEDESORIANO. 2021. “Heart Failure Prediction Dataset.” www.kaggle.com. 2021. https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
+- Valentim Realinho, Jorge Machado, Luís Baptista, & Mónica V. Martins. (2021). Predict students' dropout and academic success (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5777340
+
