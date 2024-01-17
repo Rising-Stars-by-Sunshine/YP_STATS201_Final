@@ -16,7 +16,7 @@ Go to www.kaggle.com. Click **Sign in** or **Register**.
 ### Step 2
 
 After successfully logging into kaggle, go to https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention.
-
+<img src="Step2.png" alt="Step2">
 
 ### Step 3
 
