@@ -16,6 +16,7 @@ Professionally, my journey has been enriched by valuable experiences, from a res
 
 ### **Living a Purposeful Life**
 
-Envisioning the future, I aspire to be a pioneer in the field, contributing to advancements recognized globally. Winning the Nobel Prize or Turing Award is not just a personal dream; it's a testament to the impact I hope to make. My feature sentence reflects a commitment to interdisciplinary research: "Yian Pei, a catalyst for change in healthcare and technology, revolutionized the application of machine learning to predict and prevent cardiovascular diseases, advancing human civilization."
+Envisioning the future, I aspire to be a pioneer in the field, contributing to advancements recognized globally. Winning the Nobel Prize or Turing Award is not just a personal dream; it's a testament to the impact I hope to make. <s>My feature sentence reflects a commitment to interdisciplinary research: "Yian Pei, a catalyst for change in healthcare and technology, revolutionized the application of machine learning to predict and prevent cardiovascular diseases, advancing human civilization."</s>
+
 
 My purpose is to be the founding figure of transformative advancements, leaving a legacy that positively influences the intersection of artificial intelligence and healthcare.
