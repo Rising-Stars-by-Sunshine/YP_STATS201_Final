@@ -21,8 +21,7 @@ After successfully logging into kaggle, go to https://www.kaggle.com/datasets/th
 ### Step 3
 
 Click **Download(89kb)**.
-
-
+<img src="Step3.png" alt="Step3">
 
 ### Step 4
 
