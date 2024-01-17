@@ -25,7 +25,7 @@ Click **Download(89kb)**.
 
 ### Step 4
 
-A file named **archive.zip** will be downloaded. UnZip it. There will be a file named **heart.csv**.
+A file named **archive.zip** will be downloaded. UnZip it. There will be a file named **dataset.csv**.
 
 <img src="Step4-1.png" alt="Step4-1">
 
