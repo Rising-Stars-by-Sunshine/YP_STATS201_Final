@@ -1,7 +1,7 @@
 # Yian_STATS201
 ## More about the Author
 
-<img src="photo1.jpg" alt="photo" width="300" height="420">
+<img src="photo1.jpg" alt="photo">
 
 ### **Self Introduction**
 Hello, I am Yian Pei, a passionate and dedicated individual currently pursuing a dual degree program at Duke Kunshan University (DKU) and Duke University, set to graduate in July 2025. My academic journey has been complemented by valuable research experiences and a commitment to personal and professional growth.
