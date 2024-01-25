@@ -43,11 +43,9 @@ The following content is the **LITERATURE** part of the project. This repository
 
 - Potential Applications in Decision Making: The understanding gained from this research could inform policymakers and technologists in developing more responsible AI creative tools.
 
-### Reference
+### Flowchart
 
-Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10684-10695).
-
-Tang, R., Liu, L., Pandey, A., Jiang, Z., Yang, G., Kumar, K., ... & Ture, F. (2022). What the daam: Interpreting stable diffusion using cross attention. arXiv preprint arXiv:2210.04885.
+Figure 1: Flowchart for section 1.1
 
 ## 1.2 Research Idea
 
@@ -78,3 +76,81 @@ The anticipated results from this study include the identification of specific p
 ### Intellectual Merits/Practical Impacts:
 
 This research holds dual significance. Intellectually, it contributes to the scholarly discourse on student success dynamics by unraveling the intricate interactions among diverse factors. Practically, its findings can directly inform and guide higher education administrators and policymakers in designing evidence-based strategies to enhance student retention and academic performance. Moreover, the insights gained from studying accessibility barriers will aid in closing equity gaps across different student populations, ultimately fostering a more inclusive and supportive learning environment (Redden, 2018).
+
+### Flowchart
+
+Figure 2: Flowchart for section 1.2
+
+## Reference
+
+'''
+@inproceedings{rombach2022highresolution,
+  title={High-resolution image synthesis with latent diffusion models},
+  author={Rombach, Robin and Blattmann, Andreas and Lorenz, David and Esser, Philipp and Ommer, Bj{\"o}rn},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10684--10695},
+  year={2022}
+}
+
+@article{tang2022what,
+  title={What the daam: Interpreting stable diffusion using cross attention},
+  author={Tang, Ruiqi and Liu, Lianmin and Pandey, Ankush and Jiang, Zhe and Yang, Guangyao and Kumar, Kartik and others},
+  journal={arXiv preprint arXiv:2210.04885},
+  year={2022}
+}
+
+@article{aguinis2013making,
+  title={Making business school research more relevant for practice},
+  author={Aguinis, Herman and Culpepper, Sheri A and Pierce, Charles A},
+  journal={Journal of Management},
+  volume={39},
+  number={6},
+  pages={1647--1668},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{bean1985conceptual,
+  title={A conceptual model of nontraditional undergraduate student attrition},
+  author={Bean, John P and Metzner, Barbara S},
+  journal={Review of Educational Research},
+  volume={55},
+  number={4},
+  pages={485--540},
+  year={1985},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@book{eagan2016american,
+  title={The American freshman: National norms fall 2015},
+  author={Eagan, Kevin and Stolzenberg, Ebony B and Ramirez, Joseph J and Aragon, Marisa C and Suchard, Marc R and Hurtado, Sylvia},
+  year={2016},
+  publisher={Higher Education Research Institute, UCLA}
+}
+
+@book{pascarella2005how,
+  title={How college affects students: A third decade of research},
+  author={Pascarella, Ernest T and Terenzini, Patrick T},
+  year={2005},
+  publisher={Jossey-Bass}
+}
+
+@article{redden2018closing,
+  title={Closing the Gap},
+  author={Redden, Elizabeth},
+  journal={Inside Higher Ed},
+  year={2018},
+  note={Article}
+}
+
+@article{tinto1975dropout,
+  title={Dropout from higher education: A theoretical synthesis of recent research},
+  author={Tinto, Vincent},
+  journal={Review of Educational Research},
+  volume={45},
+  number={1},
+  pages={89--125},
+  year={1975},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+'''
