@@ -82,8 +82,7 @@ This research holds dual significance. Intellectually, it contributes to the sch
 Figure 2: Flowchart for section 1.2
 
 ## Reference
-
-'''
+```
 @inproceedings{rombach2022highresolution,
   title={High-resolution image synthesis with latent diffusion models},
   author={Rombach, Robin and Blattmann, Andreas and Lorenz, David and Esser, Philipp and Ommer, Bj{\"o}rn},
@@ -153,4 +152,4 @@ Figure 2: Flowchart for section 1.2
   year={1975},
   publisher={SAGE Publications Sage CA: Los Angeles, CA}
 }
-'''
+```
