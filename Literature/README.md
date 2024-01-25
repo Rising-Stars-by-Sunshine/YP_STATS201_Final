@@ -4,7 +4,7 @@
 
 The following content is the **LITERATURE** part of the project. This repository presents a paper representing machine learning methodologies, and a drafted research idea.
 
-## 1.1 Paper review
+## 1.1 Paper Review
 
 ### What the DAAM: Interpreting Stable Diffusion Using Cross Attention
 ### Background and Motivation
@@ -48,3 +48,33 @@ The following content is the **LITERATURE** part of the project. This repository
 Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2022). High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 10684-10695).
 
 Tang, R., Liu, L., Pandey, A., Jiang, Z., Yang, G., Kumar, K., ... & Ture, F. (2022). What the daam: Interpreting stable diffusion using cross attention. arXiv preprint arXiv:2210.04885.
+
+## 1.2 Research Idea
+
+### Background/Motivation:
+
+Student dropout and degree completion are critical concerns in higher education, as they significantly impact both individual success and the broader socioeconomic landscape (Tinto, 1975; Pascarella & Terenzini, 2005). Despite the extensive research on student retention, a comprehensive understanding of the complex interplay between various predictive factors is yet to be fully realized. The ability to accurately predict dropout risk and identify elements that contribute to successful degree completion can empower educational institutions to implement timely interventions and improve academic support services (Bean & Metzner, 1985).
+
+### Research Question:
+
+The study aims to delve into the intricate web of variables affecting student outcomes by addressing two primary research questions:
+
+- What specific predictive factors are associated with student dropout or successful degree completion?
+
+- How do different features interact with each other to influence student outcomes?
+
+### Application Scenarios:
+
+The dataset for this investigation holds potential for several practical applications. It can facilitate the creation of predictive models that help identify at-risk students early, thereby enabling timely and effective intervention strategies to enhance student retention (Aguinis et al., 2013). Furthermore, the data can illuminate areas for institutional improvement to boost academic performance through targeted initiatives. Lastly, it supports equitable access to education by leveraging demographic information to design initiatives that address accessibility challenges faced by diverse student populations (Eagan et al., 2016).
+
+### Methodology:
+
+A multifaceted approach involving statistical analyses and machine learning techniques to decipher patterns and relationships within the dataset will be applied. This process begins with exploratory data analysis, followed by the development of predictive models to pinpoint the key determinants influencing student outcomes. Special attention will be given to understanding the interaction effects between different variables, which may provide additional insights into the mechanisms driving student success or failure.
+
+### Results:
+
+The anticipated results from this study include the identification of specific predictors linked to dropout or completion, along with an understanding of how these factors intertwine. Additionally, the study hopes to reveal the economic factors such as unemployment rate, inflation, and GDP's nuanced impacts on student success, thus providing a holistic perspective on the issue.
+
+### Intellectual Merits/Practical Impacts:
+
+This research holds dual significance. Intellectually, it contributes to the scholarly discourse on student success dynamics by unraveling the intricate interactions among diverse factors. Practically, its findings can directly inform and guide higher education administrators and policymakers in designing evidence-based strategies to enhance student retention and academic performance. Moreover, the insights gained from studying accessibility barriers will aid in closing equity gaps across different student populations, ultimately fostering a more inclusive and supportive learning environment (Redden, 2018).
