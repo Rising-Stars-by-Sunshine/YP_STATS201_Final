@@ -45,7 +45,7 @@ The following content is the **LITERATURE** part of the project. This repository
 
 ### Flowchart
 <img src="Flowchart 1.png" alt="Flowchart">
-Figure 1: Flowchart for section 1.1
+Figure 1: Flowchart for section 1.1 Source: Markmap
 
 ## 1.2 Research Idea
 
@@ -79,7 +79,7 @@ This research holds dual significance. Intellectually, it contributes to the sch
 
 ### Flowchart
 <img src="Flowchart 2.png" alt="Flowchart">
-Figure 2: Flowchart for section 1.2
+Figure 2: Flowchart for section 1.2 Source: Whimsical
 
 ## Reference
 ```
