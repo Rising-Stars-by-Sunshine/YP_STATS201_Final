@@ -1,7 +1,6 @@
 ## Description
 
-This repository contains the data query and the data analysis sections of the project.
-This following section is the detailed data query (and preprocessing) process.
+This repository contains the data query and the data visualization sections of the project.
 
 ## Data Query
 
@@ -31,3 +30,4 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 
 <img src="Step4-2.png" alt="Step4-2">
 
+## Data Visualization
