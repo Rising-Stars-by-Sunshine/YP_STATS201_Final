@@ -42,6 +42,11 @@
 
 The dataset chosen for this research is highly pertinent to the study's objectives of unraveling the complex dynamics influencing student dropout and degree completion. As highlighted in the research idea, the dataset encompasses a comprehensive set of variables, including demographic data, socioeconomic factors, and academic performance information. The utilization of such a multifaceted dataset aligns with the scholarly discourse on student success, as emphasized by Tinto (1975) and Pascarella & Terenzini (2005). By incorporating features such as application mode, marital status, course selection, and economic indicators like unemployment rate, inflation, and GDP, the dataset allows for a nuanced exploration of the predictive factors associated with student outcomes. Furthermore, the dataset's potential for facilitating the development of predictive models, as proposed by Bean & Metzner (1985) and Aguinis et al. (2013), underscores its suitability for identifying at-risk students and implementing timely interventions. Overall, the dataset's richness and diversity make it a robust resource for conducting the proposed multifaceted analysis and contributing valuable insights to the broader field of higher education research.
 
+## Flowchart
+
+<img src="Flowchart.png" alt="Flowchart">
+Figure 1: Flowchart for Data Source: Markmap
+
 ## Reference
 ```
 @article{aguinis2013making,
