@@ -45,7 +45,7 @@ The following content is the **LITERATURE** part of the project. This repository
 
 ### Flowchart
 <img src="Flowchart 1.png" alt="Flowchart">
-Figure 1: Flowchart for section 1.1
+**Figure 1: Flowchart for section 1.1**
 
 ## 1.2 Research Idea
 
