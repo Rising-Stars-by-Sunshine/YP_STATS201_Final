@@ -44,7 +44,7 @@ The following content is the **LITERATURE** part of the project. This repository
 - Potential Applications in Decision Making: The understanding gained from this research could inform policymakers and technologists in developing more responsible AI creative tools.
 
 ### Flowchart
-
+<img src="Flowchart 1.png" alt="Flowchart">
 Figure 1: Flowchart for section 1.1
 
 ## 1.2 Research Idea
@@ -78,7 +78,7 @@ The anticipated results from this study include the identification of specific p
 This research holds dual significance. Intellectually, it contributes to the scholarly discourse on student success dynamics by unraveling the intricate interactions among diverse factors. Practically, its findings can directly inform and guide higher education administrators and policymakers in designing evidence-based strategies to enhance student retention and academic performance. Moreover, the insights gained from studying accessibility barriers will aid in closing equity gaps across different student populations, ultimately fostering a more inclusive and supportive learning environment (Redden, 2018).
 
 ### Flowchart
-
+<img src="Flowchart 2.png" alt="Flowchart">
 Figure 2: Flowchart for section 1.2
 
 ## Reference
