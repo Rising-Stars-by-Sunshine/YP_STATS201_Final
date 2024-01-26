@@ -30,6 +30,8 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 
 <img src="Step4-2.png" alt="Step4-2">
 
+## Data Preprocessing
+
 ## Data Visualization
 
 It's recommended to use the following google colab link to visualize data by showing the relationship between variables.
