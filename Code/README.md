@@ -1,6 +1,6 @@
 ## Description
 
-This repository contains the data query and the data visualization sections of the project.
+This repository contains the data query (preprocessing) and the data visualization sections of the project.
 
 ## Data Query
 
