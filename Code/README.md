@@ -38,6 +38,6 @@ It's recommended to use the following google colab link to visualize data by sho
 
 https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sharing
 
-Please change the following into the specific variables you would like to visualize.
+Please change the following into the specific variables you would like to visualize. In this example, it shows relationship between Course and GDP.
 
 <img src="Instruction.png" alt="Instruction">
