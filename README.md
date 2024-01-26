@@ -1,5 +1,12 @@
 # Yian_STATS201
 
+## Table of Contents
+
+1. [**Literature**](./Literature)
+2. [**Data**](./Data)
+3. [**Code**](./Code)
+4. **About the Author**
+    
 ## About the Author
 
 <img src="photo1.jpg" alt="photo">
