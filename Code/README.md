@@ -34,7 +34,7 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 
 We are using One-hot encoding for the data preprocessing.
 One-hot encoding preserves the categorical information in a way that prevents the model from assuming any ordinal relationships between the categories. Each category is treated as a distinct and independent entity. When dealing with categorical variables without one-hot encoding, some algorithms may mistakenly assume an inherent order or numerical relationship between categories. One-hot encoding helps avoid such biases in model interpretation.
-And since there we are predicting student academic success/failure (dropout), we will provide a optional section for selecting the necessary "Target".\
+And since there we are predicting student academic success/failure (dropout), we will provide a optional section for selecting the necessary **Target**.
 
 <img src="Pseudocode.png" alt="Pseudocode">
 
