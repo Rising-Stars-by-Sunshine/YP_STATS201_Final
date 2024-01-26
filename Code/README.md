@@ -54,4 +54,4 @@ Figure 1: Instruction
 
 <img src="Flowchart_Code.png" alt="Flowchart">
 
-Figure 2: Flowchart Source: Markmap
+Figure 2: Flowchart Created by Markmap
