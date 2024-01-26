@@ -12,10 +12,14 @@ Go to www.kaggle.com. Click **Sign in** or **Register**.
 
 <img src="Step1.png" alt="Step1">
 
+Figure 1: Step 1
+
 ### Step 2
 
 After successfully logging into kaggle, go to https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention.
 <img src="Step2.png" alt="Step2">
+
+Figure 2: Step 2
 
 ### Step 3
 
@@ -47,3 +51,7 @@ https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sh
 Please change the following into the specific variables you would like to visualize. In this example, it shows relationship between Course and GDP.
 
 <img src="Instruction.png" alt="Instruction">
+
+## Flowchart
+
+<img src="Flowchart.png" alt="Flowchart">
