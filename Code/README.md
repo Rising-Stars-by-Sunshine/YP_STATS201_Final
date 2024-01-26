@@ -32,9 +32,9 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 
 ## Data Preprocessing
 
-We are using One-hot encoding for the data preprocessing.
-One-hot encoding preserves the categorical information in a way that prevents the model from assuming any ordinal relationships between the categories. Each category is treated as a distinct and independent entity. When dealing with categorical variables without one-hot encoding, some algorithms may mistakenly assume an inherent order or numerical relationship between categories. One-hot encoding helps avoid such biases in model interpretation.
-And since there we are predicting student academic success/failure (dropout), we will provide a optional section for selecting the necessary **Target**.
+A categorical variable comprises values that can be categorized into distinct groups based on a specific characteristic. Unlike ordinal variables, categorical variables lack a natural order among their categories. These variables, also known as qualitative or attribute variables, cannot be directly processed by most machine learning algorithms. To address this, it is necessary to convert categorical variables into numerical values. The performance of many algorithms is influenced by the chosen encoding method for categorical variables.
+
+To handle categorical variables and facilitate their integration into machine learning workflows, one commonly used tool is the LabelEncoder class from the scikit-learn library (sklearn). The LabelEncoder is designed to transform categorical labels into numerical representations, thus enabling machine learning algorithms to work with them effectively.
 
 <img src="Pseudocode.png" alt="Pseudocode">
 
