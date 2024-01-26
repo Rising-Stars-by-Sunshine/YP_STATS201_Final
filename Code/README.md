@@ -33,5 +33,6 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 ## Data Visualization
 
 It's recommended to use the following google colab link to visualize data by showing the relationship between variables.
-
 https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sharing
+Please change the following into the specific variables you would like to visualize.
+<img src="Instruction.png" alt="Instruction">
