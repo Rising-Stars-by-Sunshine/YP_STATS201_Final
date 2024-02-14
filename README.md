@@ -2,7 +2,7 @@
 
 ## Description
 
-This github repository is for STATS 201 PS1.
+This github repository is for STATS 201 PS2.
 This research delves into student dropout and degree completion, aiming to identify key predictors and understand how different factors interact. The study employs statistical analyses and machine learning to uncover patterns within the dataset. Anticipated results include insights into economic factors' nuanced impacts on student success. The findings have dual significance, contributing intellectually to scholarly discourse and practically informing evidence-based strategies for institutions. By facilitating early interventions and addressing accessibility challenges, the research seeks to improve academic support services and create a more inclusive learning environment for diverse student populations.
 
 ## Table of Contents
