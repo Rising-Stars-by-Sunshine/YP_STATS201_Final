@@ -40,6 +40,8 @@ To handle categorical variables and facilitate their integration into machine le
 
 ## Data Visualization
 
+To visualize the value count of necessary columns of the processed data, please go though this link. 
+
 It's recommended to use the following google colab link to visualize data by showing the relationship between variables.
 
 https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sharing
