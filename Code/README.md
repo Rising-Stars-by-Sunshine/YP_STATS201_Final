@@ -44,6 +44,8 @@ It's recommended to use the following link to visualize data.
 
 [Visualization](https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sharing)
 
+<img src="Example.png" alt="Example">
+
 ## Flowchart
 
 <img src="Flowchart_Code.png" alt="Flowchart">
