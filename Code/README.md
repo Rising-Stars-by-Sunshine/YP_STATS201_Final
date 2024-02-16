@@ -40,19 +40,9 @@ To handle categorical variables and facilitate their integration into machine le
 
 ## Data Visualization
 
-To visualize the value count of necessary columns of the processed data, please go though this link. 
+It's recommended to use the following link to visualize data.
 
-[View Interactive Chart](./columns.html)
-
-It's recommended to use the following link to visualize data by showing the relationship between variables.
-
-[View Relationship](https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sharing)
-
-Please change the following into the specific variables you would like to visualize. In this example, it shows relationship between Course and GDP.
-
-<img src="Instruction.png" alt="Instruction">
-
-Figure 1: Instruction
+[Visualization](https://colab.research.google.com/drive/1sOyhy07Wqr4DO9uS9iq0C0q5Q9HYoWwU?usp=sharing)
 
 ## Flowchart
 
