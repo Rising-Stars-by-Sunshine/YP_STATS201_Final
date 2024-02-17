@@ -53,7 +53,7 @@ The following content is the **METHOD** part of the project. It contains the Pre
 **Iterative Improvement:**
 The code outlines strategies for iterative model refinement to enhance its predictive accuracy:
 
-• Balance data: There are more Graduate then Dropout. Downsample can be applied to Graduate.
+• Balance data: There are more Graduate then Dropout. To address the class imbalance issue where there are more graduates than dropouts, downsampling can be applied to the majority class (graduates) as suggested by Kamiran and Calders (2012).
 
 • Compare model: Model performance can be compared to find best model.
 
