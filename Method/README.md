@@ -63,4 +63,31 @@ The code outlines strategies for iterative model refinement to enhance its predi
 Figure 1: Flowchart for Method Created by Whimsical
 
 ## Reference
-
+```
+@article{kamiran_data_2012,
+  title = {Data {{Preprocessing Techniques}} for {{Classification Without Discrimination}}},
+  author = {Kamiran, Faisal and Calders, Toon},
+  year = {2012},
+  month = jan,
+  volume = {33},
+  number = {1},
+  pages = {1--33},
+  issn = {0219-1377, 0219-3116},
+  doi = {10.1007/s10115-011-0463-x},
+  journal = {Knowledge and Information Systems},
+}
+@book{tinto_completing_2017,
+  title = {Completing {{College}}: {{Rethinking Institutional Action}}},
+  author = {Tinto, Vincent},
+  year = {2017},
+  publisher = {{University of Chicago Press}},
+  address = {{Chicago}},
+}
+@book{pascarella_how_2005,
+  title = {How {{College Affects Students}}: {{A Third Decade}} of {{Research}}},
+  author = {Pascarella, Ernest T. and Terenzini, Patrick T.},
+  year = {2005},
+  publisher = {{Jossey-Bass}},
+  address = {{San Francisco, CA}},
+}
+```
