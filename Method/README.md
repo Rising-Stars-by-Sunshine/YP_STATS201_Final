@@ -53,14 +53,6 @@ The following content is the **METHOD** part of the project. It contains the Pre
 **Iterative Improvement:**
 The code outlines strategies for iterative model refinement to enhance its predictive accuracy:
 
-• Hyperparameter Tuning: The code does not include hyperparameter tuning explicitly, but techniques like grid search or random search can be employed to optimize hyperparameters such as learning rate, maximum depth, and regularization parameters.
+• Balance data: There are more Graduate then Dropout. Downsample can be applied to Graduate.
 
-• Feature Engineering: While not explicitly shown, the code mentions the possibility of exploring and creating new features to improve the model's performance. This could involve transforming existing features, creating interaction terms, or incorporating domain knowledge.
-
-• Ensemble Methods: The code does not include ensemble methods, but techniques like boosting, bagging, or stacking can be experimented with to combine multiple models and improve overall performance.
-
-• Cross-Validation: The code does not include cross-validation explicitly, but techniques like k-fold cross-validation can be implemented to assess the model's generalization performance and reduce overfitting.
-
-• Error Analysis: The code does not include error analysis explicitly, but analyzing model errors on the validation set can help identify patterns or biases that could be addressed with further data preprocessing or model adjustments.
-
-• Regularization: The code does not include regularization explicitly, but techniques like L1 or L2 regularization can be applied to prevent overfitting and improve model generalization.
+• Compare model: Model performance can be compared to find best model.
