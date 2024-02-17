@@ -9,7 +9,7 @@ The following content is the **METHOD** part of the project. It contains the Pre
 
 **Objective:** The specific research question aims to identify predictive factors associated with student dropout or successful degree completion, particularly focusing on non-academic factors such as socioeconomic background and student demographics.
 
-**Significance:** This question is crucial in the field of higher education as understanding the multifaceted determinants of student outcomes can inform targeted interventions and support services, ultimately enhancing retention rates and improving educational equity.
+**Significance:** Research has consistently shown that non-academic factors, such as socioeconomic status and financial circumstances, significantly impact student persistence and dropout rates (Tinto, 2017; Pascarella & Terenzini, 2005). This question is crucial in the field of higher education as understanding the multifaceted determinants of student outcomes can inform targeted interventions and support services, ultimately enhancing retention rates and improving educational equity.
 
 ### Operational Measures:
 
@@ -56,3 +56,11 @@ The code outlines strategies for iterative model refinement to enhance its predi
 • Balance data: There are more Graduate then Dropout. Downsample can be applied to Graduate.
 
 • Compare model: Model performance can be compared to find best model.
+
+## Flowchart
+
+<img src="Flowchart.png" alt="Flowchart">
+Figure 1: Flowchart for Method Created by Whimsical
+
+## Reference
+
