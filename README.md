@@ -7,7 +7,7 @@ This research delves into student dropout and degree completion, aiming to ident
 
 ## Table of Contents
 
-1. [**Literature**](./Literature)
+1. [**Method**](./Method)
 2. [**Data**](./Data)
 3. [**Code**](./Code)
 4. **About the Author**
