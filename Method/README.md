@@ -1,7 +1,7 @@
 # Method
 
 ## Description:
-The following content is the **METHOD** part of the project. It contains 
+The following content is the **METHOD** part of the project. It contains the Prediction Problem and the Machine Learning Workflow
 
 ## 1.1 The Prediction Problem
 
