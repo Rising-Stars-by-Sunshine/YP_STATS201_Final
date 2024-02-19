@@ -3,7 +3,7 @@
 ## Description 
 
 - This dataset presents a comprehensive overview of undergraduates across diverse programs at a higher education institution. It encompasses demographic details, socio-economic indicators, and academic performance data, facilitating an analysis of potential factors influencing student dropout and success. The dataset comprises disparate databases with pertinent information recorded at enrollment, covering application mode, marital status, chosen courses, and more. Moreover, it allows the estimation of overall student performance each semester, considering credited/enrolled/evaluated/approved curricular units and their corresponding grades. Additionally, regional unemployment rate, inflation rate, and GDP offer insights into how economic factors impact student outcomes. This robust analytical tool sheds light on motivations behind students' persistence or abandonment across disciplines like agronomy, design, education, nursing, journalism, management, social service, and technology.
-- The dataset can be queried from [kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Also please see [Dataset Reference](#Dataset-reference).
+- The dataset can be queried from [kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). Also please see [Dataset Reference](#Dataset-reference). This dataset is supported by program "SATDAP - Capacitação da Administração Pública under grant POCI-05-5762-FSE-000191, Portugal".
 
 ## Data Dictionary
 | Variable                         | Definition                                  | Description                                               | Unit            | Type                  |
