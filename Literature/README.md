@@ -31,6 +31,7 @@ Inspired by Baker and Inventado's (2014) work on socio-economic patterns in educ
 
 ## Flowchart
 <img src="Flowchart.png" alt="Flowchart">
+Source: Whimsical
 
 ## References:
 
