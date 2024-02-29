@@ -9,6 +9,9 @@ This section describes how the research answers the research questions based on 
 
 **Figure 1: SHAP Results**
 
+This figure is a summary plot showing the most important features affecting the model's output. Each point on the summary plot represents the SHAP value (a measure of the importance of each feature in the prediction) of a feature for an instance. The features are sorted by the sum of SHAP value magnitudes over all samples, where the color represents the value of the feature (from low to high). This visualization provides insights into which features are most important and how they influence the predicted outcome.
+
+From this graph, we can see that 
 ### XGBoost
 
 <img src="XGBoost.png" alt="XGBoost">
