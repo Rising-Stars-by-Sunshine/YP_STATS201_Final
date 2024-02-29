@@ -14,7 +14,7 @@
     
     1. What predictive factors and how do they associate with student dropout or successful degree completion, particularly focusing on non-academic determinants such as socioeconomic background and student demographics?
     2. How can machine learning algorithms, particularly XGBoost, be leveraged to identify at-risk students for dropout based on their demographic profiles, financial circumstances, and social-economic backgrounds?
-    -[ChatGPT's answers to the research questions](https://chat.openai.com/share/ab0e25b7-5643-45f1-8166-875faf88f075)
+    - [ChatGPT's answers to the research questions](https://chat.openai.com/share/ab0e25b7-5643-45f1-8166-875faf88f075)
 
   - **Application Scenario (Data Source)**
     
