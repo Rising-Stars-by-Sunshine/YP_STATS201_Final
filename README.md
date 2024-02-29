@@ -5,7 +5,10 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for [STATS 201 Introduction to Machine Learning for Social Science, 2024 Spring Term (Seven Week - First)] instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I extend my deepest gratitude to Prof. Luyao Zhang, and all my classmates in STATS 201 for their unwavering guidance, expertise, and encouragement, which helped me finish this project.
-- 
+- **Project Summary**: 
+  - **Background/Motivation**
+    Student dropout and degree completion are critical concerns in higher education, as they significantly impact both individual success and the broader socioeconomic landscape. Despite the extensive research on student retention, a comprehensive understanding of the complex interplay between various predictive factors is yet to be fully realized. The majority focus on student academic performance when predicting student academic success/failure. However, academic success is often influenced by a myriad of factors extending beyond traditional classroom performance. While academic aptitude undoubtedly plays a vital role, the interplay of socioeconomic background, demographic characteristics are also crucial factors.
+    
 ## Table of Contents
 
 1. [**Method**](./Method)
