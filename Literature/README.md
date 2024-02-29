@@ -2,7 +2,7 @@
 
 ## Description:
 
-The following content is the **LITERATURE** part of the project. This repository presents a research initiative focused on enhancing the interpretability of predictive models for heart failure through the integration of Explainable Artificial Intelligence (XAI) techniques. The following content provides an overview of the research background, summarizing key literature streams, and highlights how our proposed research builds upon and advances existing studies.
+The following content is the **LITERATURE** part of the project. This repository presents how this project connects to and advances existing research.  
 
 ## Literature Review
 
