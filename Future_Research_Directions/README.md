@@ -41,7 +41,7 @@ The high rate of student dropouts in higher education remains a pervasive challe
 
 - How can reinforcement learning be applied to optimize academic intervention strategies for at-risk students?
 - Which state and action variables contribute most significantly to the performance of RL in predicting and mitigating student dropout?
-- 
+  
 ## Methods:
 Our study proposes to apply a reinforcement learning algorithm to an educational environment where the agent represents the institutional intervention system. The specific method is an adaptation of the Q-learning algorithm (Watkins, 1989), a model-free reinforcement learning algorithm, which we will tailor to the educational context using Python's RLlib, a scalable reinforcement learning library (Liang et al., 2017).
 
