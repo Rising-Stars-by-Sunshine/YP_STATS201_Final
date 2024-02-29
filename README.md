@@ -64,6 +64,8 @@ This dataset presents a comprehensive overview of undergraduates across diverse 
 
 ## Code
 
+The Code contains data preprocessing, model training, and applying SHAP to model.
+
 ## Spotlight
     
 ## More About the Author
