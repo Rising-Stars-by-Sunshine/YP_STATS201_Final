@@ -7,7 +7,7 @@ This section describes how the research answers the research questions based on 
 
 <div align="center">
 
-<img src="Result1.png" alt="Result">
+<img src="XGBoost.png" alt="XGBoost">
 
 **Figure 1: XGBoost**
 
