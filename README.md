@@ -48,6 +48,15 @@
 7. **More about the Author**
 8. **References**
 
+## Literature
+
+## Method
+
+## Data
+
+## Code
+
+## Spotlight
     
 ## More About the Author
 
