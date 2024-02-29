@@ -3,7 +3,7 @@
 ## Project information
 - **Author**: Yian Pei, Applied Math - Computer science, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Final Project for [STATS 201 Introduction to Machine Learning for Social Science, 2024 Spring Term (Seven Week - First)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Final Project for [STATS 201 Introduction to Machine Learning for Social Science, 2024 Spring Term (Seven Week - First)] instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I extend my deepest gratitude to Prof. Luyao Zhang, and all my classmates in STATS 201 for their unwavering guidance, expertise, and encouragement, which helped me finish this project.
 - 
 ## Table of Contents
