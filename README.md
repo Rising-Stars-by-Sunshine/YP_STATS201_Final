@@ -60,6 +60,10 @@ Hello, I am Yian Pei, a passionate and dedicated individual currently pursuing a
 
 Professionally, my journey has been enriched by valuable experiences, from a research stint at the Suzhou Institute of Nano-Tech and Nano-Bionics to an Algorithm Engineer Internship at Ainstec. These experiences, coupled with my role as a Student Research Intern in Bioinformatics, have equipped me with a versatile skill set crucial for navigating the complex intersection of healthcare and artificial intelligence. The course has been instrumental in shaping my ability to integrate skills effectively, creating a robust professional profile poised for meaningful contributions.
 
+### **Intellectual Growth**
+
+Throughout this course, I've experienced substantial intellectual growth, particularly in understanding the profound impact of applying machine learning to address social issues globally, such as academic issues.
+
 ### **Living a Purposeful Life**
 
 Envisioning the future, I aspire to be a pioneer in the field, contributing to advancements recognized globally. Winning the Nobel Prize or Turing Award is not just a personal dream; it's a testament to the impact I hope to make.
