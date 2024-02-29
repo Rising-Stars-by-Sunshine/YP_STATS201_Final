@@ -9,6 +9,12 @@
   - **Background/Motivation**
     Student dropout and degree completion are critical concerns in higher education, as they significantly impact both individual success and the broader socioeconomic landscape. Despite the extensive research on student retention, a comprehensive understanding of the complex interplay between various predictive factors is yet to be fully realized. The majority focus on student academic performance when predicting student academic success/failure. However, academic success is often influenced by a myriad of factors extending beyond traditional classroom performance. While academic aptitude undoubtedly plays a vital role, the interplay of socioeconomic background, demographic characteristics are also crucial factors.
     
+  - **Research Questions**
+    1. What predictive factors and how do they associate with student dropout or successful degree completion, particularly focusing on non-academic determinants such as socioeconomic background and student demographics?
+    2. How can machine learning algorithms, particularly XGBoost, be leveraged to identify at-risk students for dropout based on their demographic profiles, financial circumstances, and social-economic backgrounds?
+
+  - **Application Scenario (Data Source)**
+
 ## Table of Contents
 
 1. [**Method**](./Method)
