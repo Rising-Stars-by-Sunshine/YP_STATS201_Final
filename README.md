@@ -1,10 +1,11 @@
 # Yian_STATS201
 
-## Description
-
-This github repository is for STATS 201 PS2.
-This research delves into student dropout and degree completion, aiming to identify key predictors and understand how different factors interact. The study employs statistical analyses and machine learning to uncover patterns within the dataset. Anticipated results include insights into economic factors' nuanced impacts on student success. The findings have dual significance, contributing intellectually to scholarly discourse and practically informing evidence-based strategies for institutions. By facilitating early interventions and addressing accessibility challenges, the research seeks to improve academic support services and create a more inclusive learning environment for diverse student populations.
-
+## Project information
+- **Author**: Yian Pei, Applied Math - Computer science, Class of 2025, Duke Kunshan University
+- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
+- **Disclaimer**: Submissions to the Final Project for [STATS 201 Introduction to Machine Learning for Social Science, 2024 Spring Term (Seven Week - First)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: I extend my deepest gratitude to Prof. Luyao Zhang, and all my classmates in STATS 201 for their unwavering guidance, expertise, and encouragement, which helped me finish this project.
+- 
 ## Table of Contents
 
 1. [**Method**](./Method)
