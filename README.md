@@ -103,3 +103,11 @@ Throughout this course, I've experienced substantial intellectual growth, partic
 Envisioning the future, I aspire to be a pioneer in the field, contributing to advancements recognized globally. Winning the Nobel Prize or Turing Award is not just a personal dream; it's a testament to the impact I hope to make.
 
 My purpose is to be the founding figure of transformative advancements, leaving a legacy that positively influences the intersection of artificial intelligence and healthcare.
+
+## References
+
+### Data Source
+
+- [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
+
+### Literature
