@@ -59,6 +59,9 @@ The presentation of the model’s results involves training and testing splits, 
 
 ## Data
 
+The dataset can be queried from [kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
+This dataset presents a comprehensive overview of undergraduates across diverse programs at a higher education institution. It encompasses demographic details, socio-economic indicators, and academic performance data, facilitating an analysis of potential factors influencing student dropout and success. The dataset comprises disparate databases with pertinent information recorded at enrollment, covering application mode, marital status, chosen courses, and more. Moreover, it allows the estimation of overall student performance each semester, considering credited/enrolled/evaluated/approved curricular units and their corresponding grades. Additionally, regional unemployment rate, inflation rate, and GDP offer insights into how economic factors impact student outcomes. This robust analytical tool sheds light on motivations behind students' persistence or abandonment across disciplines like agronomy, design, education, nursing, journalism, management, social service, and technology.
+
 ## Code
 
 ## Spotlight
