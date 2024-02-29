@@ -50,6 +50,8 @@
 
 ## Literature
 
+In the realm of higher education retention studies, Tinto's (1975) pioneering Model of Student Departure has been instrumental in shaping our understanding of academic predictors of student persistence. The expanding literature underscores the importance of non-academic factors in student retention, as delineated by Rumberger and Lim (2008), who highlight the influence of personal and external commitments on attrition rates. The adoption of advanced analytical approaches is exemplified by Baker and Inventado's (2014) exploration into the use of machine learning in educational contexts, setting the stage for proactive identification of at-risk students. Shahiri et al. (2015) further contribute to this domain, demonstrating the effectiveness of the XGBoost algorithm in predicting educational outcomes. Subsequent research builds upon these findings, incorporating a broader range of non-academic factors to refine the framework for student retention and leveraging the XGBoost algorithm for more precise educational forecasting. This enhanced analytical capability facilitates the creation of tailored intervention strategies, aligning with Baker and Inventado's (2014) emphasis on socio-demographic insights, thus providing a solid foundation for personalized educational support systems aimed at improving retention.
+
 ## Method
 
 ## Data
