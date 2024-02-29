@@ -25,7 +25,7 @@
 
   - **Results**
  
-    This study found that 
+    In general, our findings suggest that students with a higher enrollment age, students facing financial challenges, and students with a lower socio-economic status of the parental background are more likely to dropout from higher education.
 
 
 ## Table of Contents
