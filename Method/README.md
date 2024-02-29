@@ -90,4 +90,12 @@ Figure 1: Flowchart for Method Created by Whimsical
   publisher = {{Jossey-Bass}},
   address = {{San Francisco, CA}},
 }
+@inproceedings{chen2016xgboost,
+  title={Xgboost: A scalable tree boosting system},
+  author={Chen, Tianqi and Guestrin, Carlos},
+  booktitle={Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining},
+  pages={785--794},
+  year={2016},
+  organization={ACM}
+}
 ```
