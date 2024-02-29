@@ -1,6 +1,8 @@
 # Future Research Directions
 
+## Description 
 
+This section outlines two research summaries focusing on predicting student academic dropout and success using the causal inference methods and the optimization methods. 
 
 # Leveraging Causal Inference to Predict and Mitigate Student Dropout Rates: A Machine Learning Approach
 
@@ -28,6 +30,8 @@ This research is poised to make significant contributions to educational scholar
 
 ## Flowchart:
 
+<img src="Flowchart1.png" alt="Flowchart">
+
 # Predicting Student Dropout and Academic Success: Optimizing Intervention Strategies through Reinforcement Learning
 
 ## Background/Motivation:
@@ -50,6 +54,8 @@ We anticipate that the optimized RL intervention system will outperform traditio
 The anticipated contributions of this research are two-fold: (1) it will offer a novel application of reinforcement learning to the educational domain, extending current predictive models into the realm of active intervention; and (2) it will provide practical insights into which interventions are most effective for student success on an individualized basis, thereby supporting more efficient allocation of institutional resources.
 
 ## Flowchart:
+
+<img src="Flowchart2.png" alt="Flowchart">
 
 ## Reference:
 
