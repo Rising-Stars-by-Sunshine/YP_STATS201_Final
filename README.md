@@ -1,4 +1,4 @@
-# Yian_STATS201
+# Predicting Student Dropout and Academic Success Using Machine Learning
 
 ## Project information
 - **Author**: Yian Pei, Applied Math - Computer science, Class of 2025, Duke Kunshan University
