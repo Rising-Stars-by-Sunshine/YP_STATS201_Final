@@ -54,6 +54,9 @@ In the realm of higher education retention studies, Tinto's (1975) pioneering Mo
 
 ## Method
 
+The methodology rests on the application of the XGBoost algorithm, chosen for its efficiency and capability in managing diverse data types, as described by Chen and Guestrin (2016). The machine learning workflow for the model includes data processing steps, such as the removal of certain variables to maintain focus on non-academic predictors and applying one-hot encoding to categorical data.
+The presentation of the model’s results involves training and testing splits, along with data visualization techniques including confusion matrices and ROC curves, which provide insights into the model’s discriminative power. Evaluation criteria like accuracy, precision, recall, and F1-score offer a multifaceted assessment of model performance.
+
 ## Data
 
 ## Code
