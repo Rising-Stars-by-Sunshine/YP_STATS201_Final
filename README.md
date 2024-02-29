@@ -27,6 +27,10 @@
  
     In general, our findings suggest that students with a higher enrollment age, students facing financial challenges, and students with a lower socio-economic status of the parental background are more likely to dropout from higher education.
 
+  - **Intellectual Merits and Practical impacts of your project**
+    - Intellectual Merits: The project significantly advances the understanding of how machine learning algorithms, particularly XGBoost, can be applied to the robust analysis and prediction of student academic retention factors, contributing to the body of knowledge in educational data mining.
+    - Practical Impacts: Implementing these research findings could lead to the development of targeted intervention programs in educational institutions, potentially decreasing dropout rates and fostering an enhanced, data-driven approach to student support and retention strategies.
+
 
 ## Table of Contents
 
