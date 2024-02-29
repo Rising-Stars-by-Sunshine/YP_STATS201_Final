@@ -14,6 +14,7 @@
     2. How can machine learning algorithms, particularly XGBoost, be leveraged to identify at-risk students for dropout based on their demographic profiles, financial circumstances, and social-economic backgrounds?
 
   - **Application Scenario (Data Source)**
+    [Predict students' dropout and academic success](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention) on Kaggle. A total of one dataset with 21 columns and 3649 data items is involved. The proliferation of renewable energy is essential for achieving climate targets, reducing dependence on fossil fuels, and promoting sustainable economic development.
 
 ## Table of Contents
 
