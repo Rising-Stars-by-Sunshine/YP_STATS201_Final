@@ -19,6 +19,15 @@
     
     [Predict students' dropout and academic success](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention) on Kaggle. This dataset is supported by program "SATDAP - Capacitação da Administração Pública under grant POCI-05-5762-FSE-000191, Portugal".
 
+  - **Methodology**
+
+    Onehot Encoder and Label Encoder were used for data preprocessing. Then a model is trained using XGBoost. Finally, SHAP is introduced to provide visualization of the predictive factors.
+
+  - **Results**
+ 
+    This study found that 
+
+
 ## Table of Contents
 
 1. [**Method**](./Method)
