@@ -49,7 +49,7 @@
 8. **References**
 
     
-## About the Author
+## More About the Author
 
 <img src="photo1.jpg" alt="photo">
 
