@@ -44,9 +44,10 @@
     - 4.1 [Data-Analysis](./Code/Data_Analysis)
     - 4.2 [Data-Query](./Code/Data_Query)
 5. [**Results**](./Results)
-6. [**Spotlights**](./Spotlights)
-7. **More about the Author**
-8. **References**
+6. [**Future Research Directions**](./Future_Research_Directions)
+7. [**Spotlights**](./Spotlights)
+8. **More about the Author**
+9. **References**
 
 ## Literature
 
