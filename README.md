@@ -122,7 +122,6 @@ Shahiri, Amirah Mohamed, Wan Husain, and Nur Aina Abdul Rashid. "A review on pre
 
 Chen, Tianqi and Guestrin, Carlos. "Xgboost: A scalable tree boosting system." In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794. ACM, 2016.
 
-**bibtex**
 ```
 @article{tinto1975dropout,
   title={Dropout from higher education: A theoretical synthesis of recent research},
