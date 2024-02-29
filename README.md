@@ -35,10 +35,19 @@
 
 ## Table of Contents
 
-1. [**Method**](./Method)
-2. [**Data**](./Data)
-3. [**Code**](./Code)
-4. **About the Author**
+1. [**Literature**](./Literature)
+2. [**Method**](./Method)
+3. [**Data**](./Data)
+    - 3.1 [Queried-Data](./Data/Queried_Data)
+    - 3.2 [Processed-Data](./Data/Processed_Data)
+4. [**Code**](./Code)
+    - 4.1 [Data-Analysis](./Code/Data_Analysis)
+    - 4.2 [Data-Query](./Code/Data_Query)
+5. [**Results**](./Results)
+6. [**Spotlights**](./Spotlights)
+7. **More about the Author**
+8. **References**
+
     
 ## About the Author
 
