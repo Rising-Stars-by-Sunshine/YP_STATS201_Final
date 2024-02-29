@@ -52,3 +52,16 @@ The anticipated contributions of this research are two-fold: (1) it will offer a
 ## Flowchart:
 
 ## Reference:
+
+Bean, John P. "Dropouts and Turnover: The Synthesis and Test of a Causal Model of Student Attrition." Research in Higher Education 12, no. 2 (1980): 155-187.
+Bowers, Alex J. "Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data-Driven Decision Making, and Dropout Prevention." Teachers College Record 112, no. 5 (2010): 1352-1390.
+Liang, Peter, Rocky Liaw, Philipp Moritz, Roy Fox, Ken Goldberg, and Michael I. Jordan. "Rllib: Abstractions for Distributed Reinforcement Learning." In Proceedings of the 34th International Conference on Machine Learning-Volume 70, 2243-2251. JMLR.org, 2017.
+Sutton, Richard S., and Andrew G. Barto. Reinforcement Learning: An Introduction. MIT Press, 2018.
+Tinto, Vincent. Leaving College: Rethinking the Causes and Cures of Student Attrition. University of Chicago Press, 1993.
+Watkins, Christopher J. C. H., and Peter Dayan. "Q-learning." Machine Learning 8, no. 3-4 (1992): 279-292.
+Bowers, Alex. "Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, and Dropout Prevention." In Handbook of Research on Schools, Schooling, and Human Development, edited by Judith L. Meece and Jacquelynne S. Eccles, 342-354. New York: Routledge, 2010.
+Imbens, Guido W., and Donald B. Rubin. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction. New York: Cambridge University Press, 2015.
+Pearl, Judea. Causality: Models, Reasoning, and Inference. 2nd ed. New York: Cambridge University Press, 2009.
+Rumberger, Russell W. "Dropping Out of Middle School: A Multilevel Analysis of Students and Schools." American Educational Research Journal 32, no. 3 (1995): 583-625. doi:10.3102/00028312032003583.
+Tibshirani, Julie, Susan Athey, and Stefan Wager. "Generalized Random Forests." Annals of Statistics 47, no. 2 (2019): 1148-1178. doi:10.1214/18-AOS1709.
+Wager, Stefan, and Susan Athey. "Estimation and Inference of Heterogeneous Treatment Effects using Random Forests." Journal of the American Statistical Association 113, no. 523 (2018): 1228-1242. doi:10.1080/01621459.2017.1319839.
