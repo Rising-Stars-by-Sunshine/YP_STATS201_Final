@@ -17,6 +17,27 @@ We can conclude using row "Age at enrollment", "Application mode_12", and **Figu
 
 **Figure 2: Age distribution**
 
+We may also deduce that students facing financial challenges, such as accruing debts, have a considerably higher propensity to withdraw from their studies, whereas those receiving scholarships have a markedly increased chance of academic success.
+
+Furthermore, it is noteworthy that although having parents with a high educational level and professional status does not necessarily enhance a student's likelihood of succeeding, a lower socio-economic status of the parental background is often associated with a greater risk of student attrition.
+
+#### Suggestions for policy makers
+
+- Financial Assistance Programs:
+  -Expand scholarship programs that target students from low to middle-income families to alleviate financial barriers to education.
+  -Implement or enhance counseling services that assist students in management of their finances and awareness of financial aid opportunities.
+  -Consider policy changes that would reduce the reliance on loans or the burden of debt for students, as this is a significant factor in student withdrawal.
+
+- Social Support and Equity Measures:
+   -Develop support systems and mentoring programs aimed specifically at students from lower socio-economic backgrounds to reduce dropout rates.
+   -Establish partnerships with high schools in less-privileged areas to create pipelines for students to higher education institutions.
+   -Review admission criteria to ensure they are not indirectly biased against those from lower socio-economic backgrounds.
+  
+-Parental Engagement and Education:
+While the educational level of parents might not guarantee student success in higher education, parental engagement is still key.
+  -Create adult education programs or workshops for parents to become more involved and informed about their children's educational journey.
+  -Fund initiatives that aim to bridge the educational gap for parents, thus indirectly supporting the academic pursuits of their children.
+  
 ### XGBoost
 
 <img src="XGBoost.png" alt="XGBoost">
