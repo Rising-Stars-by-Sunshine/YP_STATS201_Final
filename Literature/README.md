@@ -33,3 +33,47 @@ Inspired by Baker and Inventado's (2014) work on socio-economic patterns in educ
 <img src="Flowchart.png" alt="Flowchart">
 
 ## References:
+
+Tinto, V. (1975). Dropout from higher education: A theoretical synthesis of recent research. Review of Educational Research, 45(1), 89–125.
+
+Rumberger, R. W., & Lim, S. A. (2008). Why students drop out of school: A review of 25 years of research. California Dropout Research Project Report, 15.
+
+Baker, R. S. J., & Inventado, P. S. (2014). Educational Data Mining and Learning Analytics. In J. Larusson & B. White (Eds.), Learning Analytics: From Research to Practice (pp. 61-75). Springer.
+
+Shahiri, A. M., Husain, W., & Rashid, N. A. (2015). A review on predicting student's performance using data mining techniques. Procedia Computer Science, 72, 414-422.
+
+```
+@article{Tinto1975,
+  author  = {Vincent Tinto},
+  title   = {Dropout from Higher Education: A Theoretical Synthesis of Recent Research},
+  journal = {Review of Educational Research},
+  volume  = {45},
+  number  = {1},
+  pages   = {89--125},
+  year    = {1975},
+}
+@techreport{Rumberger2008,
+  author      = {Russell W. Rumberger and Sun Ah Lim},
+  title       = {Why Students Drop Out of School: A Review of 25 Years of Research},
+  institution = {California Dropout Research Project},
+  number      = {15},
+  year        = {2008},
+}
+@incollection{Baker2014,
+  author    = {Ryan S. J. d. Baker and Paul Salvador Inventado},
+  title     = {Educational Data Mining and Learning Analytics},
+  booktitle = {Learning Analytics: From Research to Practice},
+  editor    = {Johann Ari Larusson and Brandon White},
+  pages     = {61--75},
+  publisher = {Springer},
+  year      = {2014},
+}
+@article{Shahiri2015,
+  author  = {Amirah Mohamed Shahiri and Wahidah Husain and Nur'Aini Abdul Rashid},
+  title   = {A Review on Predicting Student's Performance Using Data Mining Techniques},
+  journal = {Procedia Computer Science},
+  volume  = {72},
+  pages   = {414--422},
+  year    = {2015},
+}
+```
