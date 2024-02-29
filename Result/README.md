@@ -11,7 +11,7 @@ This section describes how the research answers the research questions based on 
 
 This figure is a summary plot showing the most important features affecting the model's output. Each point on the summary plot represents the SHAP value (a measure of the importance of each feature in the prediction) of a feature for an instance. The features are sorted by the sum of SHAP value magnitudes over all samples, where the color represents the value of the feature (from low to high). This visualization provides insights into which features are most important and how they influence the predicted outcome.
 
-We can conclude using row "Age at enrollment", "Application mode_12", and **figure 2** that for higher education, students enrolled at lower age, specifically from 17 - 23, are significantly more likely to succeed.
+We can conclude using row "Age at enrollment", "Application mode_12", and **Figure 2** that for higher education, students enrolled at lower age, specifically from 17 - 23, are significantly more likely to succeed.
 
 ### XGBoost
 
