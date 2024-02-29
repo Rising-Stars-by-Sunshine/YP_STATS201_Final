@@ -111,3 +111,62 @@ My purpose is to be the founding figure of transformative advancements, leaving 
 - [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
 
 ### Literature
+
+Tinto, Vincent. "Dropout from higher education: A theoretical synthesis of recent research." Review of Educational Research 45, no. 1 (1975): 89-125.
+
+Rumberger, Russell W., and Sun Ah Lim. "Why students drop out of school: A review of 25 years of research." California Dropout Research Project Report 15 (2008).
+
+Baker, Ryan S. J. d., and Paul Salvador Inventado. "Educational Data Mining and Learning Analytics." In Learning Analytics: From Research to Practice, edited by Johann Ari Larusson and Brandon White, 61-75. New York: Springer, 2014.
+
+Shahiri, Amirah Mohamed, Wan Husain, and Nur Aina Abdul Rashid. "A review on predicting student's performance using data mining techniques." Procedia Computer Science 72 (2015): 414-422.
+
+Chen, Tianqi and Guestrin, Carlos. "Xgboost: A scalable tree boosting system." In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794. ACM, 2016.
+
+**bibtex**
+```
+@article{tinto1975dropout,
+  title={Dropout from higher education: A theoretical synthesis of recent research},
+  author={Tinto, Vincent},
+  journal={Review of Educational Research},
+  volume={45},
+  number={1},
+  pages={89--125},
+  year={1975},
+}
+
+@report{rumberger2008why,
+  title={Why students drop out of school: A review of 25 years of research},
+  author={Rumberger, Russell W and Lim, Sun Ah},
+  year={2008},
+  institution={California Dropout Research Project Report},
+  number={15}
+}
+
+@incollection{baker2014educational,
+  title={Educational Data Mining and Learning Analytics},
+  author={Baker, Ryan SJd and Inventado, Paul Salvador},
+  booktitle={Learning Analytics: From Research to Practice},
+  editor={Larusson, Johann Ari and White, Brandon},
+  pages={61--75},
+  year={2014},
+  publisher={Springer}
+}
+
+@article{shahiri2015review,
+  title={A review on predicting student's performance using data mining techniques},
+  author={Shahiri, Amirah Mohamed and Husain, Wan and Rashid, Nur Aina Abdul},
+  journal={Procedia Computer Science},
+  volume={72},
+  pages={414--422},
+  year={2015}
+}
+
+@inproceedings{chen2016xgboost,
+  title={Xgboost: A scalable tree boosting system},
+  author={Chen, Tianqi and Guestrin, Carlos},
+  booktitle={Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages={785--794},
+  year={2016},
+  organization={ACM}
+}
+```
