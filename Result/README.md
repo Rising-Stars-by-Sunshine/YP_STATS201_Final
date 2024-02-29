@@ -32,8 +32,7 @@ Furthermore, it is noteworthy that although having parents with a high education
    Develop support systems and mentoring programs aimed specifically at students from lower socio-economic backgrounds to reduce dropout rates.
    Establish partnerships with high schools in less-privileged areas to create pipelines for students to higher education institutions.
    Review admission criteria to ensure they are not indirectly biased against those from lower socio-economic backgrounds.
-  
--Parental Engagement and Education:
+  -Parental Engagement and Education:
 While the educational level of parents might not guarantee student success in higher education, parental engagement is still key.
   Create adult education programs or workshops for parents to become more involved and informed about their children's educational journey.
   Fund initiatives that aim to bridge the educational gap for parents, thus indirectly supporting the academic pursuits of their children.
