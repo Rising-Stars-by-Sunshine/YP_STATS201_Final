@@ -67,6 +67,21 @@ This dataset presents a comprehensive overview of undergraduates across diverse 
 The Code contains data preprocessing, model training, and applying SHAP to model.
 
 ## Spotlight
+
+<div align="center">
+  
+<img src="Poster.png" alt="Poster">
+
+**Figure 1: Poster**
+
+<img src="SHAP.png" alt="SHAP">
+
+**Figure 2: SHAP**
+
+<img src="Age.png" alt="Age">
+
+**Figure 3: Age distribution**
+</div>
     
 ## More About the Author
 
